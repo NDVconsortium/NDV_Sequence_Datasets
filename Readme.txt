@@ -1,3 +1,8 @@
+If you are using these datasets, please cite:
+
+"Citation to be added"
+
+
 These datasets were created by an international consortium of NDV experts for the needs of objective classification of NDV isolates.
 
 Please address any questions to:
@@ -6,6 +11,7 @@ claudio.afonso@ars.usda.gov
 dimitrov_kiril@yahoo.com
 
 Updated unified phylogenetic classification system and revised nomenclature for Newcastle disease virus
+
 Kiril M. Dimitrov a*, Celia Abolnik b, Claudio L. Afonso a*, Emmanuel Albina c,d, Justin Bahl e, Mikael Berg f, Francois-Xavier Briand g, Ian H. Brown h, Kang-Seuk Choi i, Ilya Chvala j, Diego G. Diel k, Peter A. Durr l, Helena L. Ferreira a,m, Alice Fusaro n, Patricia Gil d,o, Gabriela V. Goujgoulova p, Christian Grund q, Joseph T. Hicks e, Tony M. Joannis r, Mia Kim Torchetti s, Sergey Kolosov j, Bénédicte Lambrecht t, Nicola S. Lewis h,u, Haijin Liu v, Sam McCullough l, Patti J. Miller w, Isabella Monne n, Claude P. Muller x, Muhammad Munir y, Dilmara Reischak z, Mahmoud Sabra aa, Siba K. Samal ab, Renata Servan de Almeida d,o, Ismaila Shittu r, Chantal J. Snoeck x, David L. Suarez a, Steven Van Borm t, Zhiliang Wang ac, Frank Y. K. Wong l
 
 a Exotic and Emerging Avian Viral Disease Research Unit, Southeast Poultry Research Laboratory, US National Poultry Research Center, ARS, USDA, 934 College Station Road, Athens, GA 30605, USA
