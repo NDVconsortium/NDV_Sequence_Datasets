@@ -14,4 +14,5 @@ Class I - 293 sequences (9 new sequences)
 Class II - 1756 sequences (84 new sequences)
 Class II pilot dataset - 125 sequences representing all class II NDV genotypes and sub-genotypes
 
-These are updated sequence datasets of the original datasets in the publication cited above and include all sequences available in GenBank as of June 27th 2019 after curation (removing duplicates, vaccines, clones, recombinant forms, etc.).
+These are updated sequence datasets of the original datasets in the publication cited above and include all sequences 
+available in GenBank as of June 27th 2019 after curation (removing duplicates, vaccines, clones, recombinant forms, etc.).
