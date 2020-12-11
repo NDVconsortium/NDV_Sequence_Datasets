@@ -13,7 +13,7 @@ This folder contains three datasets for NDV phylogenetic reconstruction:
 Class I full fusion - 316 sequences (23 new sequences)
 Class II full fusion - 1901 sequences (145 new sequences)
 Class II pilot dataset - 125 sequences representing all class II NDV genotypes and sub-genotypes
-Class I complet genome - 146 sequences
+Class I complete genome - 146 sequences
 Class II complete genome - 611 sequences
 
 These are updated sequence datasets of the original datasets in the publication cited above and include all sequences 
